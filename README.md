@@ -137,14 +137,22 @@ The repository may include:
 Prompt-to-Session/
 ├── README.md
 ├── LICENSE
+├── .gitignore
 ├── project/
 │   └── Deep_House_124_Lite_v02_Mixed.als
 ├── midi/
 │   └── generated MIDI files
+├── scripts/
+│   └── MIDI generation scripts
 ├── docs/
-│   └── production plan and workflow notes
+│   ├── Ableton_Live_12_Lite_Deep_House_Production_Plan.md
+│   ├── validation-results.md
+│   └── HOW_TO_USE.md
 └── media/
-    └── optional audio preview
+    └── demo-preview.mp3
+```
+
+Ableton backup files, analysis files, temporary files, lock files, and full-resolution exports should normally be excluded from the repository.
 ```
 
 Ableton backup files, analysis files, temporary files, lock files, and full-resolution exports should normally be excluded from the repository.
