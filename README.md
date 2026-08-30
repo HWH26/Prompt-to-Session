@@ -174,3 +174,14 @@ The original materials in this repository are available under the [MIT License](
 
 Third-party software, product names, trademarks, and resources referenced by the project remain the property of their respective owners and are subject to their own licence terms.
 ```
+## MIDI Generation Scripts
+
+The Python scripts in [`scripts/`](scripts/) document an important decision made by the agents during the project.
+
+The agents determined that entering every MIDI note manually through Ableton Live’s interface would be slow, fragile, and difficult to validate. They therefore generated Standard MIDI Files programmatically and imported them into the DAW.
+
+The scripts define note timing, duration, velocity, arrangement position, and other structured MIDI data. They use only Python’s standard library and do not require an external MIDI-generation package.
+
+The generated files were not treated as a replacement for the DAW workflow. Ableton Live was still used for importing, arrangement, instrument configuration, routing, automation, mixing, and export.
+
+Some scripts represent intermediate development stages, while later scripts modify or regenerate earlier outputs. They have been retained to show how the agentic workflow evolved through iteration, diagnosis, and repair.

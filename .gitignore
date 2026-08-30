@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+
+# Ableton analysis, backup, and temporary files
+*.asd
+*.als~
+Backup/
+*.tmp
+*.bak
+*.log
+
+# Large audio exports
+*.wav
+*.aif
+*.aiff
