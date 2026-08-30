@@ -10,6 +10,10 @@ The agents configured the project, imported structured data, created and repaire
 
 The purpose of the experiment was not to produce a release-ready track. It was to investigate whether prompt-driven AI agents could meaningfully participate in a complex, stateful desktop production workflow.
 
+## Reproducing the Workflow
+
+If you want to run the same prompt-driven process yourself rather than just inspecting the finished project, see [`HOW_TO_USE.md`](HOW_TO_USE.md). It covers copying the production plan in [`docs/`](docs/) and pasting it into an AI agent with desktop control of Ableton Live, along with tips on supervising the session, handling interruptions/handoffs, and validating the export.
+
 ## Tools Used
 
 - **ChatGPT** — initial prompt development and production planning
