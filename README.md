@@ -153,9 +153,6 @@ Prompt-to-Session/
 ```
 
 Ableton backup files, analysis files, temporary files, lock files, and full-resolution exports should normally be excluded from the repository.
-```
-
-Ableton backup files, analysis files, temporary files, lock files, and full-resolution exports should normally be excluded from the repository.
 
 ## Opening the Project
 
