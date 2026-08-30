@@ -167,7 +167,7 @@ Ableton, Ableton Live, ChatGPT, Claude, and Codex are trademarks or product name
 The original materials in this repository are available under the [MIT License](LICENSE).
 
 Third-party software, product names, trademarks, and resources referenced by the project remain the property of their respective owners and are subject to their own licence terms.
-```
+
 ## MIDI Generation Scripts
 
 The Python scripts in [`scripts/`](scripts/) document an important decision made by the agents during the project.
