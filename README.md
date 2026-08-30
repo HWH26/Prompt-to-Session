@@ -12,7 +12,7 @@ The purpose of the experiment was not to produce a release-ready track. It was t
 
 ## Reproducing the Workflow
 
-If you want to run the same prompt-driven process yourself rather than just inspecting the finished project, see [`docs/HOW_TO_USE.md`](/docsHOW_TO_USE.md). It covers copying the production plan in [`docs/`](docs/) and pasting it into an AI agent with desktop control of Ableton Live, along with tips on supervising the session, handling interruptions/handoffs, and validating the export.
+If you want to run the same prompt-driven process yourself rather than just inspecting the finished project, see [`docs/HOW_TO_USE.md`](docs/HOW_TO_USE.md). It covers copying the production plan in [`docs/`](docs/) and pasting it into an AI agent with desktop control of Ableton Live, along with tips on supervising the session, handling interruptions/handoffs, and validating the export.
 
 ## Tools Used
 
